@@ -21,9 +21,9 @@ The application is designed as a simple productivity tool while also serving as 
 
 Below are example screenshots of the application interface.
 
-| Home Screen                          | Task Added                              | Task Completed                                    |
-| ------------------------------------ | --------------------------------------- | ------------------------------------------------- |
-| ![Home Screen](screenshots/home.png) | ![Task Added](screenshots/add_task.png) | ![Task Completed](screenshots/completed_task.png) |
+| Home Screen | Task Added | Task Completed |
+|-------------|------------|---------------|
+| <img src="screenshots/home.png" height="500"/> | <img src="screenshots/add_task.png" height="500"/> | <img src="screenshots/completed_task.png" height="500"/> |
 
 Example project structure:
 
